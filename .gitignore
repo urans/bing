@@ -29,3 +29,4 @@
 
 # Project-local glide cache
 .glide
+cmd/bing/bing

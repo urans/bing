@@ -7,7 +7,7 @@ require (
 	github.com/briandowns/spinner v1.20.0
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
 	github.com/fatih/color v1.13.0
-	github.com/urfave/cli/v2 v2.23.7
+	github.com/urfave/cli/v2 v2.24.1
 	golang.org/x/net v0.5.0
 )
 

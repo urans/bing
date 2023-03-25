@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/antchfx/htmlquery v1.3.0
-	github.com/briandowns/spinner v1.22.0
+	github.com/briandowns/spinner v1.23.0
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
 	github.com/fatih/color v1.15.0
 	github.com/urfave/cli/v2 v2.25.0

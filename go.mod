@@ -8,7 +8,7 @@ require (
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
 	github.com/fatih/color v1.16.0
 	github.com/urfave/cli/v2 v2.27.1
-	golang.org/x/net v0.22.0
+	golang.org/x/net v0.23.0
 )
 
 require (

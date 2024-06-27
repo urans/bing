@@ -3,7 +3,7 @@ module github.com/urans/bing
 go 1.18
 
 require (
-	github.com/antchfx/htmlquery v1.3.1
+	github.com/antchfx/htmlquery v1.3.2
 	github.com/briandowns/spinner v1.23.1
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
 	github.com/fatih/color v1.17.0
@@ -12,7 +12,7 @@ require (
 )
 
 require (
-	github.com/antchfx/xpath v1.3.0 // indirect
+	github.com/antchfx/xpath v1.3.1 // indirect
 	github.com/cpuguy83/go-md2man/v2 v2.0.4 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect

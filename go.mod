@@ -6,7 +6,7 @@ require (
 	github.com/antchfx/htmlquery v1.3.3
 	github.com/briandowns/spinner v1.23.1
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/urfave/cli/v2 v2.27.5
 	golang.org/x/net v0.30.0
 )

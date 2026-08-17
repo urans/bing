@@ -8,7 +8,7 @@ require (
 	github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
 	github.com/fatih/color v1.19.0
 	github.com/urfave/cli/v2 v2.27.7
-	golang.org/x/net v0.57.0
+	golang.org/x/net v0.58.0
 )
 
 require (
@@ -21,5 +21,5 @@ require (
 	github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 // indirect
 	golang.org/x/sys v0.47.0 // indirect
 	golang.org/x/term v0.45.0 // indirect
-	golang.org/x/text v0.40.0 // indirect
+	golang.org/x/text v0.41.0 // indirect
 )
